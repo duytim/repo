@@ -5,10 +5,10 @@ Maintainer: DuyNguyenRepo <duytim1994@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.duyrepo.camscanner.deb
 Size: 8072
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 189D62FDE3E84F12421BF75AB87A811E
 Description: Nâng cấp Camscanner lên phiên bản Premium - Upgrade Camscanner to the Premium version
 Name: CamScanner (Premium)
-Author: Reposi3 <duytim1994@gmail.com>
+Author: Duy Nguyen <duytim1994@gmail.com>
 
 
 
